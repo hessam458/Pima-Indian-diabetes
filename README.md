@@ -1,7 +1,7 @@
-🩺 Diabetes Data Cleaning Project
+# 🩺 Diabetes Data Cleaning Project
 This project focuses on cleaning and preparing a dataset related to diabetes diagnosis in Indian patients. The dataset is assumed to come from a CSV file containing medical attributes such as glucose level, insulin, BMI, and more.
 
-📂 Dataset
+# 📂 Dataset
 The dataset is loaded from:
 
 swift
@@ -28,7 +28,7 @@ Age
 
 Outcome (1: diabetic, 0: non-diabetic)
 
-🧹 Data Cleaning Steps
+# 🧹 Data Cleaning Steps
 Handling Missing Values:
 
 Zero values are considered missing in columns like Insulin, BloodPressure, BMI, and SkinThickness.
